@@ -1,0 +1,15 @@
+{
+    "name": "alan.yang/logger",
+    "type": "project",
+    "require": {
+        "php": "7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alan.yang",
+            "email": "alan.yang@104.com.tw"
+        }
+    ],
+    "minimum-stability": "dev"
+}
