@@ -1,5 +1,5 @@
 {
-    "name": "alan.yang/logger",
+    "name": "hip0216/logger",
     "type": "project",
     "require": {
         "php": ">=5.3.0",
