@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Php\\Exam\\": "saveLoggerPlace/"
+            "Php\\Exam\\": "src/"
         }
     },
     "minimum-stability": "dev"
